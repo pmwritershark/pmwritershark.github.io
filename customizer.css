@@ -1,0 +1,118 @@
+body{
+    background-color:black
+}
+
+h1{
+    color:red;
+}
+
+.navbarNav{
+    justify-content: center;
+    color: aqua;
+}
+
+.top-nav{
+    background-color: black;
+}
+
+#text-image{
+    padding-top: 0%;
+    width: 500px;
+    height: 600px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.main-container{
+    position:relative;
+
+}
+
+.display-text{
+    position:absolute;
+    top:15%;
+    left:10%;
+    color: #fff;
+}
+
+.fixed-container{
+    position: absolute;
+    left: 60%;
+    top:15%;
+    
+    
+    
+}
+
+#banner1{
+    font-size: 60px;
+    color: greenyellow;
+}
+
+#price-text{
+    font-size: 50px;
+    color: white;
+}
+
+#color-div{
+    width:50%;
+    position: absolute;
+    left: 50%;
+    bottom:30%;
+}
+
+#red-button{
+    background-color: red;
+
+}
+
+#green-button{
+    background-color: green;
+
+}
+
+#blue-button{
+    background-color: blue;
+
+}
+
+#yellow-button{
+    background-color: yellow;
+
+}
+
+#magenta-button{
+    background-color: magenta;
+
+}
+
+#orange-button{
+    background-color: orange;
+
+}
+
+#cyan-button{
+    background-color:cyan;
+    
+
+}
+
+.color-button{
+    border-radius: 50%;
+}
+
+#size-div{
+    width:50%;
+    position: absolute;
+    left: 50%;
+    bottom:10%;
+}
+
+#quantity-div{
+    width:50%;
+    position: absolute;
+    left: 50%;
+    bottom:2%;
+    color:#fff
+}
+
